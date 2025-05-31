@@ -1,0 +1,7 @@
+#search-box {
+  height: 20px;
+  width: 200px;
+  background-color: rgb(240, 180, 180);
+  color: rgb(59, 59, 53);
+  border: 1px solid teal;
+}
