@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["style.css"],"sourcesContent":["#search-box {\r\n  height: 20px;\r\n  width: 200px;\r\n  background-color: rgb(240, 180, 180);\r\n  color: rgb(59, 59, 53);\r\n  border: 1px solid teal;\r\n}\r\n"],"names":[],"version":3,"file":"JS-HW-15-16.3a01df49.css.map","sourceRoot":"/__parcel_source_root/"}

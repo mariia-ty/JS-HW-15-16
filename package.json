@@ -2,9 +2,10 @@
   "name": "js-hw-15-16",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+
   },
   "keywords": [],
   "author": "",
@@ -13,5 +14,8 @@
     "@pnotify/core": "^5.2.0",
     "@pnotify/mobile": "^5.2.0",
     "lodash.debounce": "^4.0.8"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.2"
   }
 }
